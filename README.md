@@ -1,3 +1,8 @@
+#About this Fork
+----------------
+This fork is designed to be used with Django using environment variables.  
+
+
 #Python SDK for Zoho CRM
 -------------------------
 Python SDK for Zoho CRM APIs provides wrapper for Zoho CRM APIs. Hence invoking a Zoho CRM API from your python client application is just a method call.
